@@ -19,7 +19,7 @@ Read and contribute to add your experience to the list!
 To add a new item, open a [Pull Request](https://github.com/hahaluckyme/transitioning-for-companies/pull/new/master). If only one step is hard
 
 ## Impossible (Cannot make changes)
-- Gmail (handle) | Cannot change gmail email addresses
+- Gmail (email address) | Cannot change gmail email addresses
 
 ## Difficult (Impossible without supporting Legal Documentation)
 - Chase | Requires Legal Document of new name
