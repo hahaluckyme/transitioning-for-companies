@@ -16,7 +16,7 @@ Here's a short (incomplete) list of things you may want to change on a site/serv
 # Contributing
 Read and contribute to add your experience to the list!
 
-To add a new item, open a [Pull Request](https://github.com/hahaluckyme/transitioning-for-companies/pull/new/master). If only one step is hard
+To add a new item, open a [Pull Request](https://github.com/hahaluckyme/transitioning-for-companies/pull/new/master). If you need to break a company into two buckets, denote the designation in parentheses.
 
 ## Impossible (Cannot make changes)
 - Gmail (email address) | Cannot change gmail email addresses
