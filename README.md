@@ -21,7 +21,7 @@ To add a new item, open a [Pull Request](https://github.com/hahaluckyme/transiti
 ## Impossible (Cannot make changes)
 - Gmail (email address) | Cannot change gmail email addresses
 
-## Difficult (Impossible without supporting Legal Documentation)
+## Difficult (Requires supporting Legal Documentation)
 - Chase | Requires Legal Document of new name
 - [Delta Skymiles](https://www.delta.com/us/en/need-help/support-skymiles) | Requires copy of Legal Document with matching name on Skymiles account
 - [HiltonHonors](https://help.hilton.com/s/article/How-do-I-change-my-name-on-my-account) | Requires current email address, phone number, reason for name change, copy of Legal Document with matching home address as the address in their system
