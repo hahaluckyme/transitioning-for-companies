@@ -29,6 +29,7 @@ To add a new item, open a [Pull Request](https://github.com/hahaluckyme/transiti
 ## Hard (High effort or has many steps)
 
 ## Easy (May require a phone call)
+- [Steam](https://help.steampowered.com/en/wizard/HelpAccountDataQuestion) | Ask for a username change because of gender transition, then provide a [proof of ownership for the account](https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762)
 
 ## Great (Trivial, only requires internet)
 - [Etsy](https://www.etsy.com/your/profile?ref=si_profile) | Trivial
