@@ -19,7 +19,7 @@ Read and contribute to add your experience to the list!
 To add a new item, open a [Pull Request](https://github.com/hahaluckyme/transitioning-for-companies/pull/new/master). If you need to break a company into two buckets, denote the designation in parentheses.
 
 ## Impossible (Cannot make changes)
-- Gmail (email address) | Cannot change gmail email addresses
+- Gmail (email address) | Cannot change gmail email addresses. However, you can [add a non-gmail alternate email](https://myaccount.google.com/u/0/email) and then [delete your Gmail account](https://myaccount.google.com/u/0/dashboard) which will let you keep the rest of your Google account.
 
 ## Difficult (Requires supporting Legal Documentation)
 - Chase | Requires Legal Document of new name
